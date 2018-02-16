@@ -1,0 +1,1 @@
+cmd_/home/jlin/proj2/mastermind2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/jlin/proj2/mastermind2.ko /home/jlin/proj2/mastermind2.o /home/jlin/proj2/mastermind2.mod.o ;  true
